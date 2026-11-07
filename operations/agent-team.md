@@ -13,7 +13,7 @@ sensitivity: "internal"
 ## Agents in the workspace (2026-11-07)
 | Agent | Purpose |
 |---|---|
-| Gamut Command | Orchestrator for the owner (Alaska Roofing LLC, Borealis Builders LLC). Takes every request, delegates, checks results |
+| Gamut Command | Orchestrator for the owner. Takes every request, delegates, checks results |
 | Web Design Assistant | Turns briefs into page structures and layouts |
 | SEO Agent | SEO specialist; paused until a website is live |
 | SkillfulAgents GitHub Assistant | Works with the SkillfulAgents GitHub projects |

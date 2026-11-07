@@ -12,8 +12,9 @@ Alaska Roofing LLC is an Alaska roofing and home-improvement business run by Cod
 - [company/glossary.md](company/glossary.md): the team's terms (Diddly, Gamut Command, and others)
 - [marketing/website-redesign.md](marketing/website-redesign.md): status of the new Alaska Roofing website (built, not published)
 - [marketing/social-presence.md](marketing/social-presence.md): Facebook and Instagram state, the 7-day plan, the missing Page connection
+- [projects/software-projects.md](projects/software-projects.md): CryoSense AI, ArcticFlow, HOUSE-X and other repos
 - [operations/agent-team.md](operations/agent-team.md): the workspace's AI agents, what each is for, standing rules
 - [operations/tools-and-accounts.md](operations/tools-and-accounts.md): connected accounts and what each one holds
 
 ## Folders
-- [company/](company/README.md), [marketing/](marketing/README.md), [operations/](operations/README.md)
+- [company/](company/README.md), [marketing/](marketing/README.md), [operations/](operations/README.md), [projects/](projects/README.md)

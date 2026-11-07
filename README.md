@@ -10,7 +10,7 @@ sensitivity: "internal"
 
 # Alaska Roofing LLC Team Brain
 
-A shared set of pages about Alaska Roofing LLC (North Pole, Alaska) and its owner's related ventures: who we are, what we do, how we work and what we have decided. Every page says where its facts came from and how sure we are. This first version is a draft built on 2026-11-07, and most pages are labelled `inferred` or `reported` until the owner confirms them.
+A shared set of pages about Alaska Roofing LLC (North Pole, Alaska): who we are, what we do, how we work and what we have decided. Every page says where its facts came from and how sure we are. This first version is a draft built on 2026-11-07, and most pages are labelled `inferred` or `reported` until the owner confirms them.
 
 ## Map
 
@@ -19,6 +19,7 @@ A shared set of pages about Alaska Roofing LLC (North Pole, Alaska) and its owne
 | [company/](company/README.md) | Who the company is, who does what, the glossary |
 | [marketing/](marketing/README.md) | Website redesign, Facebook and Instagram presence |
 | [operations/](operations/README.md) | The AI agent team and the connected tools and accounts |
+| [projects/](projects/README.md) | The owner's software projects |
 | `_brain/` | The team record: rules, sources, changelog, upkeep summaries |
 
 ## Add or correct something

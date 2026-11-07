@@ -12,7 +12,7 @@ sensitivity: "internal"
 
 | Who | Role | Source |
 |---|---|---|
-| Cody Rudolph | Owner of Alaska Roofing LLC and Borealis Builders LLC. Hands-on contractor. Decides all spending, publishing, sending, account creation and signing | Gamut Command rules |
+| Cody Rudolph | Owner of Alaska Roofing LLC. Hands-on contractor. Decides all spending, publishing, sending, account creation and signing | Gamut Command rules |
 | Gamut Command (agent) | Cody's single point of contact; delegates to worker agents | [agent-team.md](../operations/agent-team.md) |
 | Brain agent (`y5mjzyru6c`) | Builds and maintains this brain | this brain |
 
