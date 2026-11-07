@@ -1,5 +1,8 @@
 # Changelog (newest first)
 
+## 2026-11-07: Facebook link
+- Added the Page link and follower count to marketing/social-presence.md. Evidence: owner's message and the public page. Undo: remove that paragraph.
+
 ## 2026-11-07: owner decisions
 - Added projects/ (software-projects.md). Evidence: owner said include private repos. Undo: archive projects/.
 - Removed Borealis Builders mentions from content pages and recorded it as out of scope. Evidence: owner said leave it alone. Undo: restore from history.
